@@ -1,4 +1,5 @@
 ## Hi there 👋
+[내 브이로그 구경 가기](https://sieouni.github.io/my-vlog/)
 
 <!--
 **sieouni/sieouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
